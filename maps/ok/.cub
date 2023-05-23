@@ -1,0 +1,18 @@
+NO /Users/hcremers/cub3d/textures/cat.xpm
+SO /Users/hcremers/cub3d/textures/wall.xpm
+WE /Users/hcremers/cub3d/textures/tile.xpm
+EA /Users/hcremers/cub3d/textures/teapot.xpm
+
+F 220,100,0
+C 225,30,0
+
+1111111111
+1000000001
+1000000001
+1000000001
+1000000001
+1000N00001
+1000000001
+1000000001
+1000000001
+1111111111
